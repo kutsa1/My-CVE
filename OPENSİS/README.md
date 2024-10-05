@@ -15,6 +15,9 @@ Impact: The vulnerability exists due to improper sanitization of user-supplied i
 
 ## Proof of Concept (PoC)
 
+![sqlmap](sqlmap.png)
+![burp](burp.png)
+
 
 I'll explain the PoC code when I hear back from the manufacturer.
 
